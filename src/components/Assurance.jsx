@@ -1,38 +1,3 @@
-// import React from "react";
-// import Imgone from "../images/7days.png";
-// import ImgTwo from "../images/quality.png";
-// import ImgThree from "../images/payment.png";
-// import ImgFour from "../images/helpline.png";
-// import ElRight from "../images/EllipseRight.png";
-// import ElLeft from "../images/EllipseLeft.png";
-
-// const Assurance = () => {
-//    return (
-//       <section className="bg-[#F5F4F2] relative mt-10 ">
-//          <div className="absolute top-28 ">
-//             <img className="w-16" src={ElLeft} alt="" />
-//          </div>
-//          <div className="absolute right-0 bottom-28">
-//             <img className="w-16 " src={ElRight} alt="" />
-//          </div>
-//          <div className="wrapper flex  items-center justify-evenly h-44">
-//             <div className="border-1 border-r-2 px-12">
-//                <img src={Imgone} alt="" />
-//             </div>
-//             <div className="border-1 border-r-2 px-12">
-//                <img src={ImgTwo} alt="" />
-//             </div>
-//             <div className="border-1 border-r-2 px-12">
-//                <img src={ImgThree} alt="" />
-//             </div>
-//             <div>
-//                <img src={ImgFour} alt="" />
-//             </div>
-//          </div>
-//       </section>
-//    );
-// };
-// export default Assurance;
 
 import React from "react";
 import Imgone from "../images/7days.png";
