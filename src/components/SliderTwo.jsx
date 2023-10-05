@@ -24,7 +24,7 @@ const SliderTwo = () => {
 
    return (
       <>
-         <section className="max-w-full shadow- md:rounded-sm  rounded-lg mx-[0.23rem] md:mx-0  overflow-hidden md:mt-8 mt-16 md:h-  mb-1 ">
+         <section className="max-w-full shadow- md:rounded-sm  rounded-lg mx-[0.23rem] md:mx-0  overflow-hidden md:mt-8 mt-10 md:h-  mb-1 ">
             <Carousel
                className="mx-four rounded-2x"
                swipeable={true}

@@ -34,7 +34,7 @@ const Slider = () => {
    return (
       <section className="max-w-full shadow-md:rounded-sm rounded-lg mx-[0.23rem] md:mx-0 overflow-hidden md:mt-16 mt-16 md:h- mb-1">
          {isLoading ? (
-            <div className="animate-pulse w-full h-[160px] lg:h-[400px] bg-gray-300"></div>
+            <div className="animate-pulse w-full h-[160px] lg:h-[550px] bg-gray-300"></div>
          ) : (
             <Carousel
                className="mx-four rounded-2x"
@@ -50,7 +50,7 @@ const Slider = () => {
             >
                <img
                   draggable="false"
-                  className="w-full object-fill cursor-pointer"
+                  className="w-full lg:h-[550px] object-fill cursor-pointer"
                   src={Banner}
                   alt="Banner"
                />
