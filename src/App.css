@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.show-menu{
+  left:0 !important;
+}
+
+.hidden{
+  display: none;
+}
