@@ -125,21 +125,15 @@ const Navbar = () => {
                      </li>
                      <div className="social-menu">
                         <li className="min-w-[200px] text-center no-underline text-black font-[17px] flex justify-center py-[7px] relative">
-                           {/* <a href="https://chat.whatsapp.com/IO9Gi359UhkG8xIJar4J5D">
-                              <BsWhatsapp className="text-green-400" size={25}></BsWhatsapp>
-                           </a> */}
+                          
                            Hello
                         </li>
                         <li className="min-w-[200px] text-center no-underline text-white font-[17px] flex justify-center py-[7px] relative">
-                           {/* <a href="tel:+918447752090">
-                              <FiPhoneCall className="text-gray-700" size={25}></FiPhoneCall>
-                           </a> */}
+                          
                         </li>
 
                         <li className="min-w-[200px] text-center no-underline text-white font-[17px] flex justify-center py-[7px] relative">
-                           {/* <a href="mailto:support@ensologic.com">
-                              <AiOutlineMail className="text-fill-100 text-blue-400" size={25}></AiOutlineMail>
-                           </a> */}
+                          
                         </li>
                      </div>
                   </div>
